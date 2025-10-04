@@ -7,5 +7,4 @@
 🌍 Open to collaborations on **computational imaging, computer vision, and scientific computing**.  
 
 📫 Reach me at: [bingxi.li@berkeley.edu](mailto:bingxi.li@berkeley.edu)  
-🌐 Website: [bingxi-li.com](https://bingxi-li.com)  
 🔗 LinkedIn: [linkedin.com/in/bingxi-l-a7383a294](https://www.linkedin.com/in/bingxi-l-a7383a294)  
