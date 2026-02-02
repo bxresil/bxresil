@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bingxi Li
 
-🎓 Junior at UC Berkeley studying **Physics & Applied Mathematics** (with an **EECS minor**).  
+🎓 Junior at UC Berkeley studying **Physics** with an **EECS minor**.  
 🔬 Interested in **computational imaging, optical physics, and data-driven modeling**.  
 💡 Currently building projects in **Fourier optics, stacking algorithms, and astrophotography**.  
 📸 Actively exploring the intersection of **photography, physics, and computation**.  
