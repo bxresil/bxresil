@@ -18,4 +18,4 @@ Physics undergraduate at **UC Berkeley** (EECS minor, class of 2027) working on 
 
 **Interests:** computational imaging · optical microscopy · inverse problems · multi-frame reconstruction · measurement selection
 
-**Tools:** Python (PyTorch, NumPy, SciPy, OpenCV, scikit-image, rawpy) · MATLAB · JavaScript · Fiji/ImageJ · Zerene Stacker · LaTeX
+**Tools:** Python (PyTorch, NumPy, SciPy, OpenCV, scikit-image, rawpy) · MATLAB · JavaScript · Zemax OpticStudio · Fiji/ImageJ · Zerene Stacker · LaTeX
