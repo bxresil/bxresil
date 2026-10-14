@@ -2,7 +2,7 @@
 
 Physics undergraduate at **UC Berkeley** (EECS minor, class of 2027) working on **computational microscopy and multi-frame reconstruction**. I'm interested in designing optical measurements and reconstruction algorithms together, and in testing what a reconstruction recovers.
 
-[Website](https://bxresil.github.io) · [CV](https://bxresil.github.io/assets/Bingxi_Li_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/bingxi-l-a7383a294/) · bingxi.li@berkeley.edu
+[Website](https://bingxili.com) · [CV](https://bingxili.com/assets/Bingxi_Li_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/bingxi-l-a7383a294/) · bingxi.li@berkeley.edu
 
 **Now**
 - Undergraduate researcher in the **Na Ji Lab** (computational microscopy): applying the lab's neural-field reconstruction pipeline to PSF and wavefront-aberration estimation; SNR analysis
